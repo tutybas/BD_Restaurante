@@ -1,0 +1,16 @@
+# Arquivos locais de configuração e credenciais
+.env
+.env.*
+!.env.example
+
+# Backups e dumps locais de banco de dados
+*.sql~
+*.dump
+*.bak
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.swp
+*.swo
+*~
